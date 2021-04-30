@@ -1,0 +1,13 @@
+C:\Users\kyo.han\Desktop\learning\fileの練習\bin\Debug\netcoreapp3.1\fileの練習.exe
+C:\Users\kyo.han\Desktop\learning\fileの練習\bin\Debug\netcoreapp3.1\fileの練習.deps.json
+C:\Users\kyo.han\Desktop\learning\fileの練習\bin\Debug\netcoreapp3.1\fileの練習.runtimeconfig.json
+C:\Users\kyo.han\Desktop\learning\fileの練習\bin\Debug\netcoreapp3.1\fileの練習.runtimeconfig.dev.json
+C:\Users\kyo.han\Desktop\learning\fileの練習\bin\Debug\netcoreapp3.1\fileの練習.dll
+C:\Users\kyo.han\Desktop\learning\fileの練習\bin\Debug\netcoreapp3.1\fileの練習.pdb
+C:\Users\kyo.han\Desktop\learning\fileの練習\obj\Debug\netcoreapp3.1\fileの練習.csprojAssemblyReference.cache
+C:\Users\kyo.han\Desktop\learning\fileの練習\obj\Debug\netcoreapp3.1\fileの練習.AssemblyInfoInputs.cache
+C:\Users\kyo.han\Desktop\learning\fileの練習\obj\Debug\netcoreapp3.1\fileの練習.AssemblyInfo.cs
+C:\Users\kyo.han\Desktop\learning\fileの練習\obj\Debug\netcoreapp3.1\fileの練習.csproj.CoreCompileInputs.cache
+C:\Users\kyo.han\Desktop\learning\fileの練習\obj\Debug\netcoreapp3.1\fileの練習.dll
+C:\Users\kyo.han\Desktop\learning\fileの練習\obj\Debug\netcoreapp3.1\fileの練習.pdb
+C:\Users\kyo.han\Desktop\learning\fileの練習\obj\Debug\netcoreapp3.1\fileの練習.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\kyo.han\Desktop\learning\simpleFactory\bin\Debug\netcoreapp3.1\simpleFactory.exe
+C:\Users\kyo.han\Desktop\learning\simpleFactory\bin\Debug\netcoreapp3.1\simpleFactory.deps.json
+C:\Users\kyo.han\Desktop\learning\simpleFactory\bin\Debug\netcoreapp3.1\simpleFactory.runtimeconfig.json
+C:\Users\kyo.han\Desktop\learning\simpleFactory\bin\Debug\netcoreapp3.1\simpleFactory.runtimeconfig.dev.json
+C:\Users\kyo.han\Desktop\learning\simpleFactory\bin\Debug\netcoreapp3.1\simpleFactory.dll
+C:\Users\kyo.han\Desktop\learning\simpleFactory\bin\Debug\netcoreapp3.1\simpleFactory.pdb
+C:\Users\kyo.han\Desktop\learning\simpleFactory\obj\Debug\netcoreapp3.1\simpleFactory.AssemblyInfoInputs.cache
+C:\Users\kyo.han\Desktop\learning\simpleFactory\obj\Debug\netcoreapp3.1\simpleFactory.AssemblyInfo.cs
+C:\Users\kyo.han\Desktop\learning\simpleFactory\obj\Debug\netcoreapp3.1\simpleFactory.csproj.CoreCompileInputs.cache
+C:\Users\kyo.han\Desktop\learning\simpleFactory\obj\Debug\netcoreapp3.1\simpleFactory.dll
+C:\Users\kyo.han\Desktop\learning\simpleFactory\obj\Debug\netcoreapp3.1\simpleFactory.pdb
+C:\Users\kyo.han\Desktop\learning\simpleFactory\obj\Debug\netcoreapp3.1\simpleFactory.genruntimeconfig.cache
