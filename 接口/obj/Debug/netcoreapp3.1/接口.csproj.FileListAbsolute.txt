@@ -1,0 +1,12 @@
+C:\Users\kyo.han\Desktop\learning\接口\bin\Debug\netcoreapp3.1\接口.exe
+C:\Users\kyo.han\Desktop\learning\接口\bin\Debug\netcoreapp3.1\接口.deps.json
+C:\Users\kyo.han\Desktop\learning\接口\bin\Debug\netcoreapp3.1\接口.runtimeconfig.json
+C:\Users\kyo.han\Desktop\learning\接口\bin\Debug\netcoreapp3.1\接口.runtimeconfig.dev.json
+C:\Users\kyo.han\Desktop\learning\接口\bin\Debug\netcoreapp3.1\接口.dll
+C:\Users\kyo.han\Desktop\learning\接口\bin\Debug\netcoreapp3.1\接口.pdb
+C:\Users\kyo.han\Desktop\learning\接口\obj\Debug\netcoreapp3.1\接口.AssemblyInfoInputs.cache
+C:\Users\kyo.han\Desktop\learning\接口\obj\Debug\netcoreapp3.1\接口.AssemblyInfo.cs
+C:\Users\kyo.han\Desktop\learning\接口\obj\Debug\netcoreapp3.1\接口.csproj.CoreCompileInputs.cache
+C:\Users\kyo.han\Desktop\learning\接口\obj\Debug\netcoreapp3.1\接口.dll
+C:\Users\kyo.han\Desktop\learning\接口\obj\Debug\netcoreapp3.1\接口.pdb
+C:\Users\kyo.han\Desktop\learning\接口\obj\Debug\netcoreapp3.1\接口.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\kyo.han\Desktop\learning\抽象类\bin\Debug\netcoreapp3.1\抽象类.exe
+C:\Users\kyo.han\Desktop\learning\抽象类\bin\Debug\netcoreapp3.1\抽象类.deps.json
+C:\Users\kyo.han\Desktop\learning\抽象类\bin\Debug\netcoreapp3.1\抽象类.runtimeconfig.json
+C:\Users\kyo.han\Desktop\learning\抽象类\bin\Debug\netcoreapp3.1\抽象类.runtimeconfig.dev.json
+C:\Users\kyo.han\Desktop\learning\抽象类\bin\Debug\netcoreapp3.1\抽象类.dll
+C:\Users\kyo.han\Desktop\learning\抽象类\bin\Debug\netcoreapp3.1\抽象类.pdb
+C:\Users\kyo.han\Desktop\learning\抽象类\obj\Debug\netcoreapp3.1\抽象类.csprojAssemblyReference.cache
+C:\Users\kyo.han\Desktop\learning\抽象类\obj\Debug\netcoreapp3.1\抽象类.AssemblyInfoInputs.cache
+C:\Users\kyo.han\Desktop\learning\抽象类\obj\Debug\netcoreapp3.1\抽象类.AssemblyInfo.cs
+C:\Users\kyo.han\Desktop\learning\抽象类\obj\Debug\netcoreapp3.1\抽象类.csproj.CoreCompileInputs.cache
+C:\Users\kyo.han\Desktop\learning\抽象类\obj\Debug\netcoreapp3.1\抽象类.dll
+C:\Users\kyo.han\Desktop\learning\抽象类\obj\Debug\netcoreapp3.1\抽象类.pdb
+C:\Users\kyo.han\Desktop\learning\抽象类\obj\Debug\netcoreapp3.1\抽象类.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\kyo.han\Desktop\learning\learning\bin\Debug\netcoreapp3.1\復習.exe
+C:\Users\kyo.han\Desktop\learning\learning\bin\Debug\netcoreapp3.1\復習.deps.json
+C:\Users\kyo.han\Desktop\learning\learning\bin\Debug\netcoreapp3.1\復習.runtimeconfig.json
+C:\Users\kyo.han\Desktop\learning\learning\bin\Debug\netcoreapp3.1\復習.runtimeconfig.dev.json
+C:\Users\kyo.han\Desktop\learning\learning\bin\Debug\netcoreapp3.1\復習.dll
+C:\Users\kyo.han\Desktop\learning\learning\bin\Debug\netcoreapp3.1\復習.pdb
+C:\Users\kyo.han\Desktop\learning\learning\obj\Debug\netcoreapp3.1\復習.AssemblyInfoInputs.cache
+C:\Users\kyo.han\Desktop\learning\learning\obj\Debug\netcoreapp3.1\復習.AssemblyInfo.cs
+C:\Users\kyo.han\Desktop\learning\learning\obj\Debug\netcoreapp3.1\復習.csproj.CoreCompileInputs.cache
+C:\Users\kyo.han\Desktop\learning\learning\obj\Debug\netcoreapp3.1\復習.dll
+C:\Users\kyo.han\Desktop\learning\learning\obj\Debug\netcoreapp3.1\復習.pdb
+C:\Users\kyo.han\Desktop\learning\learning\obj\Debug\netcoreapp3.1\復習.genruntimeconfig.cache
+C:\Users\kyo.han\Desktop\learning\learning\obj\Debug\netcoreapp3.1\復習.csprojAssemblyReference.cache
